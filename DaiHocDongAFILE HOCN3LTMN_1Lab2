@@ -1,0 +1,72 @@
+{
+  "osType": "Windows_NT",
+  "platform": "win32",
+  "totalRAM": "7.70 GB",
+  "usedRAM": "6.86 GB",
+  "CPU": [
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": "3110 MHz"
+    }
+  ]
+}
